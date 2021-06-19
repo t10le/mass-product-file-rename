@@ -1,0 +1,21 @@
+#STYLE
+Habour
+
+#CATEGORY
+towel
+
+#COLOURS
+Crystal Blue
+Lime Green
+Black
+Lilac
+Light Grey
+Powder Pink
+Bright Pink
+Dark Grey
+Olive
+
+#TYPES
+hanging-cover
+hanging
+flat
